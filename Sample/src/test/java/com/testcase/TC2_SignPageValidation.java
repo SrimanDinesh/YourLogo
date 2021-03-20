@@ -11,7 +11,7 @@ import com.pages.HomePage;
 import com.utils.SeleniumUtils;
 
 @Listeners(com.utils.ListenerTest.class)
-public class TC1_SignPageValidation {
+public class TC2_SignPageValidation {
 	WebDriver driver;
 	static DriverClass driverclass = new DriverClass();
 	static SeleniumUtils selUtil = new SeleniumUtils();
